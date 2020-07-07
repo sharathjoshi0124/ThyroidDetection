@@ -1,3 +1,0 @@
-# ThyroidDetection
-
-##Notes
